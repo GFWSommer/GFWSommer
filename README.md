@@ -1,1 +1,1 @@
-Hi, I am Gregor Sommer a biochemist in Berlin. In my repositories you can find some of my work which was not published anywhere else. These are projects I did during my studies at University of Göttingen and Freie Universität Berlin. 
+Hi, I am Gregor Sommer a M.Sc. biochemist in Berlin. In my repositories you can find a collection of projects that I completed during my studies at the University of Göttingen and Freie Universität Berlin. 
