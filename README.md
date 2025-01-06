@@ -1,1 +1,1 @@
-Hi, I am Gregor Sommer a bioinformatician with an M.Sc. in Biochemistry, living and working in Berlin. In my repositories you can find a collection of projects that I completed during my studies at the University of Göttingen and Freie Universität Berlin. 
+Hi, I am Gregor Sommer a bioinformatician with an M.Sc. in biochemistry, living and working in Berlin. In my repositories you can find a collection of projects that I completed during my studies at the University of Göttingen and Freie Universität Berlin. 
